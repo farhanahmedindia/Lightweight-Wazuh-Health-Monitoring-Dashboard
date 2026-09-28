@@ -477,6 +477,3 @@ Do not publish passwords, tokens, webhook URLs, internal IP addresses, or the re
 
 The public dashboard should also be protected with network controls or authentication when it contains operationally sensitive information.
 
-## License
-
-Choose a license before publishing the repository.
