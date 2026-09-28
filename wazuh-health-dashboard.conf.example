@@ -1,0 +1,6 @@
+# /etc/wazuh-health-dashboard.conf
+WAZUH_INDEXER_URL=https://<indexer-private-ip>:9200
+WAZUH_INDEXER_USER=<read-only-user>
+WAZUH_INDEXER_PASSWORD=<read-only-password>
+WAZUH_INDEXER_CA=/path/to/indexer-root-ca.pem
+WAZUH_INDEXER_INSECURE_TLS=false

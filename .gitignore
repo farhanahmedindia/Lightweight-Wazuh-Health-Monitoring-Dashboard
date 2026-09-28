@@ -1,0 +1,5 @@
+health.json
+*.env
+*.secret
+*.log
+.DS_Store
